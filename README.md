@@ -1,7 +1,7 @@
 # Projeto de PHP
 Nesse projeto foi realizado o CRUD com as funcionalidades de incluir, excluir, alterar e consultar.
 
-# Integrantes:
+# Integrantes
 
 Nome: José Vitor Salles Queiroz R.A: 010623034
 
