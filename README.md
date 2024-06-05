@@ -1,10 +1,10 @@
 # Projeto de php - Nesse projeto foi ultilizado o CRUD com as funcionalidades de incluir, excluir, alterar e consultar 
 
 #Integrantes:
-Nome: José Vitor Salles Queiroz R.A: 010623034
-Nome: Wesley Santos Ramos R.A: 010623062
-Nome: Maria Eduarda da Silva Raymundo R.A: 010623045
-Nome: Thais Cristina Gonçalves R.A: 010623012
+#Nome: José Vitor Salles Queiroz R.A: 010623034
+#Nome: Wesley Santos Ramos R.A: 010623062
+#Nome: Maria Eduarda da Silva Raymundo R.A: 010623045
+#Nome: Thais Cristina Gonçalves R.A: 010623012
 
 ## 📷 Telas
 ![Imagem do WhatsApp de 2024-06-05 à(s) 10 16 00_00085405](https://github.com/thaiscris24/Projeto_de_php/assets/114692153/2e84c138-c715-484a-99df-ed83a88133f9)
