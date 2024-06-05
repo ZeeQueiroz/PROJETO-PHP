@@ -1,6 +1,6 @@
 # Projeto de php - Nesse projeto foi ultilizado o CRUD com as funcionalidades de incluir, excluir, alterar e consultar 
 
-#Integrantes:
+# Integrantes:
 #Nome: José Vitor Salles Queiroz R.A: 010623034
 #Nome: Wesley Santos Ramos R.A: 010623062
 #Nome: Maria Eduarda da Silva Raymundo R.A: 010623045
