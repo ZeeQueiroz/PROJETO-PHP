@@ -25,8 +25,9 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - ✔️ CSS
 - ✔️ HTML
 - ✔️ JAVASCRIPT
+- ✔️ SCSS
 
 # Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [GIT](https://git-scm.com/)e o [VSCode](https://code.visualstudio.com/download).
-E rodar em uma interface MySQL o Banco de Dados do projeto.
+E rodar em uma interface MySQL o Banco de Dados do projeto, recomendo a utilização do XAMMP. (O SCRIPT SQL JÁ ESTÁ PRONTO, E JUNTO COM AS OUTRAS DOCUMENTAÇÕES)
