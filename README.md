@@ -1,4 +1,10 @@
-# Projeto de php - Nesse projeto foi ultilizado o CRUD com as funcionalidades de incluir/excluir/alterar e consultar 
+# Projeto de php - Nesse projeto foi ultilizado o CRUD com as funcionalidades de incluir, excluir, alterar e consultar 
+
+#Integrantes:
+Nome: José Vitor Salles Queiroz R.A: 010623034
+Nome: Wesley Santos Ramos R.A: 010623062
+Nome: Maria Eduarda da Silva Raymundo R.A: 010623045
+Nome: Thais Cristina Gonçalves R.A: 010623012
 
 ## 📷 Telas
 ![Imagem do WhatsApp de 2024-06-05 à(s) 10 16 00_00085405](https://github.com/thaiscris24/Projeto_de_php/assets/114692153/2e84c138-c715-484a-99df-ed83a88133f9)
@@ -30,4 +36,4 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 # Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [GIT](https://git-scm.com/)e o [VSCode](https://code.visualstudio.com/download).
-E rodar em uma interface MySQL o Banco de Dados do projeto, recomendo a utilização do XAMMP. (O SCRIPT SQL JÁ ESTÁ PRONTO, E JUNTO COM AS OUTRAS DOCUMENTAÇÕES)
+E rodar em uma interface MySQL o Banco de Dados do projeto, recomendo a utilização do XAMMP. (O SCRIPT SQL JÁ ESTÁ PRONTO, E JUNTO COM AS OUTRAS DOCUMENTAÇÕES).
